@@ -1,8 +1,7 @@
-### Hi there 👋
+### Hi there 👋 I'm João Aglio!
 
-- 🔭 I’m currently working on Centro Universitário Toledo Prudente
-- 🌱 I’m currently learning PHP and React.js
-- 🤔 I’m looking for help with React.js
+- 🔭 I’m currently working on Centro Universitário Toledo Prudente as a Full-stack Intern
+- 🌱 I’m currently learning Laravel and React.js
 - 😄 Pronouns: he/him
 
 <div align="center">
