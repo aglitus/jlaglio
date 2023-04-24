@@ -1,8 +1,7 @@
 ### Hi there 👋 I'm João Aglio!
 
-- 🔭 I’m currently working on Centro Universitário Toledo Prudente as a Full-stack Intern
-- 🌱 I’m currently learning Laravel and React.js
-- 😄 Pronouns: he/him
+- 🔭 I’m currently working on Centro Universitário Toledo Prudente as a Full-stack Intern.
+- 🌱 I’m currently learning React.js + TypeScript, and Laravel.
 
 <div align="center">
   <a href="https://github.com/aglitus">
@@ -11,9 +10,11 @@
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+    <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
       <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Laravel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg">
+  <img align="center" alt="Laravel" height="30" width="29" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1969px-Laravel.svg.png">
+        <img align="center" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg">
+
 
 
 </div>
