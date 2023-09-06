@@ -8,9 +8,9 @@ __A little more about me:__
 - 🌱 Besides coding, I absolutely love drawing. 
 
 <div align="center">
-  <a href="https://github.com/jlaglio">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jlaglio&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jlaglio&layout=compact&langs_count=7&theme=dracula"/>
+  <a href="https://github.com/aglitus">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aglitus&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aglitus&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 ### 📌 My main stack:
@@ -35,7 +35,7 @@ __A little more about me:__
 
  ## 📎 Find me at:
 <div> 
-  <a href="https://www.youtube.com/jlaglio" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://www.youtube.com/aglitus" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/joaoaglio/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 </div>
